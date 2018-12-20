@@ -1,10 +1,7 @@
-# React/Redux Express Starter Pack
+# Monolithic Application
 
-> Create full stack apps with React/Redux and Express. Run your client and server with a single command
+> Create full stack apps with React/Redux with backend node and expressJs. Run your client and server with a single command
 
-### Version Without Redux
-This version includes Redux
-[Click Here For the Version WITHOUT Redux](https://github.com/bradtraversy/react_express_starter)
 
 ## Quick Start
 
@@ -28,15 +25,13 @@ npm run client
 ```
 
 ## App Info
+MERN stack.
+Its simple Todo Application with basic crud operations with database..
+data is lively updating and deleting..
 
 ### Authors
-
-Brad Traversy & Gregory Assasie
+Srinivas
 
 ### Version
 
 1.0.0
-
-### License
-
-This project is licensed under the MIT License
