@@ -29,7 +29,7 @@ MERN stack.
 Its simple Todo Application with basic crud operations with database..
 data is lively updating and deleting..
 
-##UnWanted Folders & files ->
+##UnWanted Folders & files -> Models,
 Routes,
 api.js.
 
